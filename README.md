@@ -1,5 +1,4 @@
-# MPI-SHH Summer School: Doorway to Human History
-# Phylogenetics Workshop
+# MPI-SHH Summer School: Doorway to Human History\n Phylogenetics Workshop
 # 19 Aug. 2021
 
 ## Megan Michel
