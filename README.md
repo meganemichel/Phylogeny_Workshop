@@ -4,17 +4,26 @@
 
 Together we will work through some exercises to gain familiarity with phylogenetic methods used in analyses of ancient pathogen SNP data. We will be analyzing a dataset of genome-wide SNP data from ancient and modern Yersinia pestis, the causative agent of the plague. We will start in breakout rooms and come together at the end of the session to discuss our findings.
 
-**Part 1** : The first thing you need to do is ensure that you have downloaded the data files and have the correct software installed on your machine.
+## Part 1: Preparation
+The first thing you need to do is ensure that you have downloaded the data files and have the correct software installed on your machine.
  
 1. **MEGA X (Molecular Genetic Evolutionary Analysis)-** https://www.megasoftware.net/  
 Download the version of MEGA X suitable for your machine and follow instructions to install.
  
 2. **Data files-** https://github.com/meganemichel/Phylogeny_Workshop  
 Download this repository to a convenient location on your local machine. If you are comfortable working with Git on the command line follow the following steps:  
-* a. Open a terminal window  
-* b. Change into the directory where you would like to save the Phylogeny_Workshop materials  
-
-
+* Open a terminal window  
+* Change into the directory where you would like to save the Phylogeny_Workshop materials  
 ```
 cd /Users/michel/Desktop
 ```
+* Clone directory
+```
+git clone https://github.com/meganemichel/Phylogeny_Workshop.git
+```
+
+**Note:** If you are not comfortable working with git, nativate to the URL listed above, select the green "Code button", and choose "Download ZIP". Make sure the unzipped directory is named Phylogeny_Workshop, and move this directory to the desired location in your filesystem. 
+
+## Part 2: SNP Alignments
+
+Within the directory `Phylogeny_Workshop`, you will find a folder called `Data/Alignments`.
