@@ -11,8 +11,8 @@ Download the version of MEGA X suitable for your machine and follow instructions
  
 2. **Data files-** https://github.com/meganemichel/Phylogeny_Workshop  
 Download this repository to a convenient location on your local machine. If you are comfortable working with Git on the command line follow the following steps:  
-<t\>a. Open a terminal window  
-<t\>b. Change into the directory where you would like to save the Phylogeny_Workshop materials  
+* a. Open a terminal window  
+* b. Change into the directory where you would like to save the Phylogeny_Workshop materials  
 
 
 ```
