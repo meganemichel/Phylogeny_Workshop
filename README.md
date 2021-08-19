@@ -9,7 +9,7 @@ Together we will work through some exercises to gain familiarity with phylogenet
 1. **MEGA X (Molecular Genetic Evolutionary Analysis)-** https://www.megasoftware.net/
 Download the version of MEGA X suitable for your machine and follow instructions to install.
  
-2. **Data files-** https://github.com/meganemichel/Phylogeny_Workshop<n/>
+2. **Data files-** https://github.com/meganemichel/Phylogeny_Workshop  
 Download this repository to a convenient location on your local machine. If you are comfortable working with Git on the command line follow the following steps:
 Open a terminal window
 Change into the directory where you would like to save the Phylogeny_Workshop materials 
