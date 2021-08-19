@@ -1,8 +1,12 @@
-# MPI-SHH Summer School: Doorway to Human History\n Phylogenetics Workshop
-# 19 Aug. 2021
+> ## MPI-SHH Summer School: Doorway to Human History
+>
+> Phylogenetics Workshop
+>
+> 19 Aug. 2021
 
-## Megan Michel
-## (megan_michel@eva.mpg.de, @megan_michel on Mattermost)
+
+> ### Megan Michel
+> (megan_michel@eva.mpg.de, @megan_michel on Mattermost)
 
 Together we will work through some exercises to gain familiarity with phylogenetic methods used in analyses of ancient pathogen SNP data. We will be analyzing a dataset of genome-wide SNP data from ancient and modern Yersinia pestis, the causative agent of the plague. We will start in breakout rooms and come together at the end of the session to discuss our findings.
 
