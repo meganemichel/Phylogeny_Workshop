@@ -22,8 +22,18 @@ cd /Users/michel/Desktop
 git clone https://github.com/meganemichel/Phylogeny_Workshop.git
 ```
 
-**Note:** If you are not comfortable working with git, nativate to the URL listed above, select the green "Code button", and choose "Download ZIP". Make sure the unzipped directory is named Phylogeny_Workshop, and move this directory to the desired location in your filesystem. 
+**Note:** If you are not comfortable working with git, nativate to the URL listed above, select the green "Code button", and choose "Download ZIP". Make sure the unzipped directory is named `Phylogeny_Workshop`, and move this directory to the desired location in your filesystem. 
 
 ## Part 2: SNP Alignments
 
-Within the directory `Phylogeny_Workshop`, you will find a folder called `Data/Alignments`.
+Within the directory `Phylogeny_Workshop/Data/Alignments`, you will find a file called `Dataset_genotyped_98_pd.fasta`. This file contains a multiple sequence alignmentof ancient and modern *Yersinia pestis* sequences. Run the following command to take a look at our alignment file.
+```
+cd /your/path/here/Phylogeny_Workshop
+head Data/Alignments/Dataset_genotyped_98_pd.fasta
+```
+Each sequence consists of a header line beginning with '>' and a string of nucleotides (**A,T,C,G**). What does **N** stand for in our alignment file?
+
+ How many *Y. pestis* sequences are present in our file?
+```
+grep '>' Data/Alignments/Dataset_genotyped_98_pd.fasta | wc -l
+```

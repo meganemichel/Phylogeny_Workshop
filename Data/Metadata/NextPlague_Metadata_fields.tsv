@@ -1,0 +1,288 @@
+strain	date	project_name	publication_year	publication_doi	site_name	country	sample_host	sample_name	sample_age	sample_age_doi	singlegenome_domain	singlegenome_species	material	genome_type	collection_date	archive	data_type	archive_project	archive_accession
+XXX001.A18956.61	20XX-XX-XX	LNBA2021	NA	NA	El Sotillo	Spain	Homo sapiens	I2470	3271	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+VLI092	20XX-XX-XX	LNBA2021	NA	NA	Vlineves	Czech Republic	Homo sapiens	VLI092	4725.5	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+KZL002	20XX-XX-XX	LNBA2021	NA	NA	Kyzyl	Kazakhstan	Homo sapiens	KZL002	3516.5	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+KLE031	20XX-XX-XX	LNBA2021	NA	NA	Kleinaitingen	Germany	Homo sapiens	KLE031	3839.5	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+KLZ001	20XX-XX-XX	LNBA2021	NA	NA	Kaluzhny 1	Russia	Homo sapiens	KLZ001	4167	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+ARS007	20XX-XX-XX	LNBA2021	NA	NA	Arbulag sum	Mongolia	Homo sapiens	ARS007	3147	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+GRS004	20XX-XX-XX	LNBA2021	NA	NA	Großstorkwitz	Germany	Homo sapiens	GRS004	4662	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+KLE048	20XX-XX-XX	LNBA2021	NA	NA	Kleinaitingen	Germany	Homo sapiens	KLE048	3702	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+KNK001	20XX-XX-XX	LNBA2021	NA	NA	Krasnogvardeyskoe	Russia	Homo sapiens	KNK001	4706	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+HOP001	20XX-XX-XX	LNBA2021	NA	NA	Hostivice-Palouky	Czech Republic	Homo sapiens	HOP001	4278.5	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+CHC004	20XX-XX-XX	LNBA2021	NA	NA	Chocivel	Poland	Homo sapiens	CHC004	3979	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+HOP004	20XX-XX-XX	LNBA2021	NA	NA	Hostivice-Palouky	Czech Republic	Homo sapiens	HOP004	4250	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+MIB054	20XX-XX-XX	LNBA2021	NA	NA	Mikulovice (big)	Czech Republic	Homo sapiens	MIB054	3814.5	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+XXX001.A18962.69.72	20XX-XX-XX	LNBA2021	NA	NA	Dereivka I	Ukraine	Homo sapiens	I5884	4743	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
+GZL002.A0101_02.YP2.1	20XX-XX-XX	Yu2020	2020	10.1016/j.cell.2020.04.037	Glazkovskoe Predmestie Site	Russia	Homo sapiens	GLZ002	4400	10.1016/j.cell.2020.04.037	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB37007	ERS4540521
+GZL001.A0101_02.YP2.1	20XX-XX-XX	Yu2020	2020	10.1016/j.cell.2020.04.037	Glazkovskoe Predmestie Site	Russia	Homo sapiens	GLZ001	4300	10.1016/j.cell.2020.04.037	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB37007	ERS4540520
+STN019.A0101_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Nägeligasse, St. Peter and Paul churchyard	Switzerland	Homo sapiens	STN019.A0101	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607421
+BED028.A0102_8103_PE_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	New Churchyard (Bedlam) burial ground	United Kingdom	Homo sapiens	BED028.A0102	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607392
+NMS002.A0101.combined	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Augustinian Friary	United Kingdom	Homo sapiens	NMS002.A0101	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607408
+STN002.A0101_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Nägeligasse, St. Peter and Paul churchyard	Switzerland	Homo sapiens	STN002.A0101	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607411
+JK1548_UDG_PE_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	“Marktplatz” Ellwangen	Germany	Homo sapiens	Ellwangen 549_O	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607398
+BED030.A0102_8127_PE_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	New Churchyard (Bedlam) burial ground	United Kingdom	Homo sapiens	BED030.A0102	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607393
+BED024.A0102_8052_PE_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	New Churchyard (Bedlam) burial ground	United Kingdom	Homo sapiens	BED024.A0102	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607391
+STN020.A0101_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Nägeligasse, St. Peter and Paul churchyard	Switzerland	Homo sapiens	STN020.A0101	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607422
+STN021.A0101_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Nägeligasse, St. Peter and Paul churchyard	Switzerland	Homo sapiens	STN021.A0101	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607423
+STA001.A0101_PE_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Possenhofener Str. 3	Germany	Homo sapiens	STA001.A0101	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607410
+LAI009.A0101_RT88_PE_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Laishevo III cemetery	Russia	Homo sapiens	LAI009.A0101	600	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607399
+BED034.A0102_8198_PE_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	New Churchyard (Bedlam) burial ground	United Kingdom	Homo sapiens	BED034.A0102	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607394
+STN014.A0101_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Nägeligasse, St. Peter and Paul churchyard	Switzerland	Homo sapiens	STN014.A0101	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607419
+BRA001.A0101_PE_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Domlinden 12	Germany	Homo sapiens	BRA001.A0101	300	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607396
+STN008.A0101_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Nägeligasse, St. Peter and Paul churchyard	Switzerland	Homo sapiens	STN008.A0101	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607415
+STN007.A0101_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	Nägeligasse, St. Peter and Paul churchyard	Switzerland	Homo sapiens	STN007.A0101	400	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607414
+MAN008.B0101_SE	20XX-XX-XX	Spyrou2019	2019	10.1038/s41467-019-12154-0	St. Leonhardi	Germany	Homo sapiens	MAN008.B0101	600	10.1038/s41467-019-12154-0	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29990	ERS3607402
+EDI001.A_shotgun	20XX-XX-XX	Keller2019	2019	10.1073/pnas.1820447116	Edix Hill	United Kingdom	Homo sapiens	EDI001.A	1500	10.1073/pnas.1820447116	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB29991	ERS3465382
+Altenerding2018	20XX-XX-XX	Feldman2016	2016	10.1093/molbev/msw170	Altenerding	Germany	Homo sapiens	AE1175	1500	10.1093/molbev/msw170	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB14851	ERS1266114
+London_EastSmithfield_8124_8291_11972	20XX-XX-XX	Bos2011	2011	10.1038/nature10549	East Smithfield Cemetery	United Kingdom	Homo sapiens	ES_8124_8291_11972	600	10.1038/nature10549	bacteria	Yersinia pestis	tooth	chromosome	NA	SRA	raw	SRP008060	SRS259945
+Bolgar	20XX-XX-XX	Spyrou2016	2016	10.1016/j.chom.2016.05.012	Ust-Jerusalem necropolis	Russia	Homo sapiens	Bolgar_2370	600	10.1016/j.chom.2016.05.012	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB13664	ERS1124788
+Barcelona	20XX-XX-XX	Spyrou2016	2016	10.1016/j.chom.2016.05.012	Sants Màrtirs Just i Pastor	Spain	Homo sapiens	Barcelona_3031	600	10.1016/j.chom.2016.05.012	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB13664	ERS1124787
+OBS124	20XX-XX-XX	Bos2016	2016	10.7554/eLife.12994.001	l'Observance	France	Homo sapiens	OBS124	200	10.7554/eLife.12994.001	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB12163	ERS1020863
+OBS107	20XX-XX-XX	Bos2016	2016	10.7554/eLife.12994.001	l'Observance	France	Homo sapiens	OBS107	200	10.7554/eLife.12994.001	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB12163	ERS1020860
+OBS116	20XX-XX-XX	Bos2016	2016	10.7554/eLife.12994.001	l'Observance	France	Homo sapiens	OBS116	200	10.7554/eLife.12994.001	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB12163	ERS1020862
+OBS137	20XX-XX-XX	Bos2016	2016	10.7554/eLife.12994.001	l'Observance	France	Homo sapiens	OBS137	200	10.7554/eLife.12994.001	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB12163	ERS1020864
+OBS110	20XX-XX-XX	Bos2016	2016	10.7554/eLife.12994.001	l'Observance	France	Homo sapiens	OBS110	200	10.7554/eLife.12994.001	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB12163	ERS1020861
+MIK005.A_RT5	20XX-XX-XX	Spyrou2018	2018	10.1038/s41467-018-04550-9	Mikhailovsky II burial site	Russia	Homo sapiens	RT5	3500	10.1038/s41467-018-04550-9	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB24296	ERS2106903
+GEN72	20XX-XX-XX	AndradesValtuena2017	2017	10.1016/j.cub.2017.10.025	Beli Manastir-Popova zemlja	Croatia	Homo sapiens	GEN72	4200	10.1016/j.cub.2017.10.025	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB19335	ERS1892068
+Gyvakarai1	20XX-XX-XX	AndradesValtuena2017	2017	10.1016/j.cub.2017.10.025	Gyvakarai	Lithuania	Homo sapiens	Gyvakarai1	4000	10.1016/j.cub.2017.10.025	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB19335	ERS1892064
+PST006.A_Post6	20XX-XX-XX	AndradesValtuena2017	2017	10.1016/j.cub.2017.10.025	Haunstetten Postillionstrasse 6	Germany	Homo sapiens	6Post	3600	10.1371/journal.pone.0139705	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB19335	ERS1892066
+HUT004.A_1343UnTal85	20XX-XX-XX	AndradesValtuena2017	2017	10.1016/j.cub.2017.10.025	Haunstetten Unterer Talweg 85	Germany	Homo sapiens	1343UnTal85	3800	10.1371/journal.pone.0139705	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB19335	ERS1892067
+RK1001.C	20XX-XX-XX	AndradesValtuena2017	2017	10.1016/j.cub.2017.10.025	Rasshevatskiy	Russia	Homo sapiens	RK1001	4200	10.1016/j.cub.2017.10.025	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB19335	ERS1892069
+KunilaII	20XX-XX-XX	AndradesValtuena2017	2017	10.1016/j.cub.2017.10.025	Kunila	Estonia	Homo sapiens	KunilaII	4000	10.1016/j.cub.2017.10.025	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB19335	ERS1892065
+RISE509	20XX-XX-XX	Rasmussen2015	2015	10.1016/j.cell.2015.10.009	Bateni	Russia	Homo sapiens	RISE509	4200	10.1038/nature14507	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB10885	ERS848976
+RISE505	20XX-XX-XX	Rasmussen2015	2015	10.1016/j.cell.2015.10.009	Kytmanovo	Russia	Homo sapiens	RISE505	3400	10.1038/nature14507	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	PRJEB10885	ERS848975
+0.ANT2_B42003004	2003-XX-XX	Eppinger2009	2009	10.1128/JB.01227-09	NA	China	Marmota baibacina	0.ANT2_B42003004	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000169675.1
+0.PE2_PEST.F	20XX-XX-XX	Garcia2007	2007	10.1007/978-0-387-72124-8_2	NA	FSU	Unknown	0.PE2_PEST.F	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000016445.1,GCF_000834315.1
+0.PE4_Microtus91001	1970-XX-XX	Song2004	2004	10.1093/dnares/11.3.179	NA	China	Lasiopodomys brandtii	0.PE4_Microtus91001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000007885.1
+0.PE4Ba_PestoidesA	20XX-XX-XX	Plunkett2009	2009	Direct submission	NA	FSU	Unknown	0.PE4Ba_PestoidesA	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000182545.1
+1.ANT1_UG05.0454	2004-XX-XX	Morelli2010	2010	10.1038/ng.705	NA	Uganda	Homo sapiens	1.ANT1_UG05.0454	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000169615.1
+1.ORI1_CA88	1988-XX-XX	Auerbach2007	2007	10.1371/journal.pone.0000770	NA	USA	Homo sapiens	1.ORI1_CA88	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000181455.2
+1.ORI1_CO92	1992-XX-XX	Parkhill2001	2001	10.1038/35097083	NA	USA	Homo sapiens	1.ORI1_CO92	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000009065.1
+1.ORI1b_India195	20XX-XX-XX	Plunkett2009	2009	Direct submission	NA	India	Homo sapiens	1.ORI1b_India195	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000182505.1
+1.ORI2_F1991016	1991-XX-XX	Eppinger2009	2009	10.1128/JB.01227-09	NA	China	Rattus flavipectus	1.ORI2_F1991016	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000170275.1
+1.ORI3_IP275	1995-XX-XX	Morelli2010	2010	10.1038/ng.705	NA	Madagascar	Homo sapiens	1.ORI3_IP275	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000168235.2
+1.ORI3_MG05.1020	2005-XX-XX	Morelli2010	2010	10.1038/ng.705	NA	Madagascar	Homo sapiens	1.ORI3_MG05.1020	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000169635.1
+2.ANT1_Nepal516	1967-XX-XX	Chain2006	2006	10.1128/JB.00124-06	NA	Nepal	Homo sapiens	2.ANT1_Nepal516	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000013805.1
+2.MED1_K1973002	1973-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	2.MED1_K1973002	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA		assembly	NA	
+2.MED1_KIM10	1968-XX-XX	Deng2002	2002	10.1128/JB.184.16.4601-4611.2002	NA	Iran/Kurdistan	Homo sapiens	2.MED1_KIM10	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000006645.1
+outgroup_Y.pseudo	20XX-XX-XX	Chain2004	2004	10.1073/pnas.0404012101	NA	France	Homo sapiens	outgroup_Y.pseudo	0	NA	bacteria	Yersinia pseudotuberculosis	unknown	chromosome	NA	RefSeq	assembly	NA	GCF_000047365.1
+0.ANT1a_42013	1971-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Citellus undulatus	0.ANT1a_42013	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT1b_CMCC49003	1976-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Citellus undulatus	0.ANT1b_CMCC49003	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT1c_945	1994-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	0.ANT1c_945	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT1d_164	1985-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Oropsylla silantiewi	0.ANT1d_164	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT1e_CMCC8211	1982-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Citellophilus tesquorum	0.ANT1e_CMCC8211	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT1f_42095	2001-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Citellus undulatus	0.ANT1f_42095	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT1g_CMCC42007	1967-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota baibacina	0.ANT1g_CMCC42007	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT1h_CMCC43032	1980-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Oropsylla silantiewi	0.ANT1h_CMCC43032	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT2a_2330	2003-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota baibacina	0.ANT2a_2330	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT3a_CMCC38001	1979-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota baibacina	0.ANT3a_CMCC38001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT3b_A1956001	1956-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota caudata	0.ANT3b_A1956001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT3c_42082	1995-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Citellus undulatus	0.ANT3c_42082	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT3d_CMCC21106	2001-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota baibacina	0.ANT3d_CMCC21106	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT3e_42091b	1999-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Citellus undulatus	0.ANT3e_42091b	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2b_G8786	20XX-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Georgia	Microtus arvalis	0.PE2b_G8786	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_M0000002	2001-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Microtus fuscus	0.PE4_M0000002	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4Aa_12	2004-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	0.PE4Aa_12	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4Ab_9	2004-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	0.PE4Ab_9	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4Ca_CMCCN010025	2000-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Microtus fuscus	0.PE4Ca_CMCCN010025	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4Cc_CMCC18019	2001-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Microtus fuscus	0.PE4Cc_CMCC18019	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4Cd_CMCC93014	1970-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Lasiopodomys brandtii	0.PE4Cd_CMCC93014	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4Ce_CMCC91090	1970-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Lasiopodomys brandtii	0.PE4Ce_CMCC91090	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE7b_620024	1962-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	0.PE7b_620024	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ANT1_Antiqua	1965-XX-XX	Chain2016	2006	10.1128/JB.00124-06	NA	Republic of the Congo	Homo sapiens	1.ANT1_Antiqua	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA	RefSeq	assembly	NA	NC_008150.1
+1.IN1a_CMCC11001	1954-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	1.IN1a_CMCC11001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN1b_780441	1978-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	1.IN1b_780441	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN1c_K21985002	1985-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	1.IN1c_K21985002	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2a_CMCC640047	1964-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	1.IN2a_CMCC640047	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2b_30017	1976-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	1.IN2b_30017	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2c_CMCC31004	1990-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	1.IN2c_CMCC31004	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2d_C1975003	1975-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Ovis aries	1.IN2d_C1975003	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2e_C1989001	1989-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	1.IN2e_C1989001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2f_710317	1971-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	1.IN2f_710317	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2g_CMCC05013	1988-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Linognathoides palaearctus	1.IN2g_CMCC05013	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2h_5	2004-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	1.IN2h_5	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2i_CMCC10012	1964-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Ixodex crenulatus	1.IN2i_CMCC10012	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2j_CMCC27002	1991-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	1.IN2j_CMCC27002	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2k_970754	1997-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Ovis aries	1.IN2k_970754	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2l_D1991004	1991-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	1.IN2l_D1991004	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2m_D1964002b	1964-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Canis familiaris	1.IN2m_D1964002b	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2n_CMCC02041	1965-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Mustela eversmanni	1.IN2n_CMCC02041	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2o_CMCC03001	1954-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Ochotona daurica	1.IN2o_CMCC03001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2p_D1982001	1982-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	1.IN2p_D1982001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN2q_D1964001	1964-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	1.IN2q_D1964001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN3a_F1954001	1954-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rattus flavipectus	1.IN3a_F1954001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN3b_E1979001	1979-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Eothenomys miletus	1.IN3b_E1979001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN3c_CMCC84038b	1982-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Apodemus chevrieri	1.IN3c_CMCC84038b	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN3d_YN1683	1977-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Apodemus speciosus	1.IN3d_YN1683	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN3e_YN472	1957-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Neopsyllini specialis	1.IN3e_YN472	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN3f_YN1065	1954-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Stenischia humilis	1.IN3f_YN1065	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN3g_E1977001	1977-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Ctenophthalmus quadratus	1.IN3g_E1977001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN3h_CMCC84033	1979-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Eothenomys miletus	1.IN3h_CMCC84033	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.IN3i_CMCC84046	1984-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Eothenomys miletus	1.IN3i_CMCC84046	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI1a_CMCC114001	1952-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Mus musculus	1.ORI1a_CMCC114001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI1c_F1946001	1946-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	1.ORI1c_F1946001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI2a_YN2179	1995-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Myanmar	Rattus flavipectus	1.ORI2a_YN2179	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI2c_YN2551b	2002-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rattus flavipectus	1.ORI2c_YN2551b	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI2d_YN2588	2000-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rattus flavipectus	1.ORI2d_YN2588	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI2f_CMCC87001	1982-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rattus flavipectus	1.ORI2f_CMCC87001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI2g_F1984001	1984-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rattus flavipectus	1.ORI2g_F1984001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI2h_YN663	1982-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Xenopsylla cneopis roths .	1.ORI2h_YN663	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI2i_CMCCK100001a	1991-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rattus flavipectus	1.ORI2i_CMCCK100001a	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI2i_CMCCK110001b	1991-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rattus flavipectus	1.ORI2i_CMCCK110001b	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+1.ORI3a_EV76	1922-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Madagascar	Homo sapiens	1.ORI3a_EV76	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT1a_34008	1968-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	2.ANT1a_34008	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT1b_34202	1990-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	2.ANT1b_34202	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT2a_2	2004-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	2.ANT2a_2	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT2b_351001	1996-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	2.ANT2b_351001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT2c_CMCC347001	1996-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	2.ANT2c_CMCC347001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT2d_G1996006	1996-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	2.ANT2d_G1996006	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT2e_G1996010	1996-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Pseudois nayaur	2.ANT2e_G1996010	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT2f_CMCC348002	1998-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	2.ANT2f_CMCC348002	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3a_CMCC92010	1971-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Spermophilus dauricus	2.ANT3a_CMCC92010	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3b_CMCC95001	1970-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Spermophilus dauricus	2.ANT3b_CMCC95001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3c_CMCC96001	1957-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Vulpes vulpes	2.ANT3c_CMCC96001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3d_CMCC96007	1989-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Meles meles	2.ANT3d_CMCC96007	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3e_CMCC67001	1959-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Patient	2.ANT3e_CMCC67001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3f_CMCC104003	1989-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Spermophilus dauricus	2.ANT3f_CMCC104003	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3g_CMCC51020	1954-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rattus norvegicus	2.ANT3g_CMCC51020	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3h_CMCC106002	1996-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Citellophilus tesquorum	2.ANT3h_CMCC106002	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3i_CMCC64001	1957-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rhipicephalus sanguineus	2.ANT3i_CMCC64001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3j_H1959004	1959-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rattus norvegicus	2.ANT3j_H1959004	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3k_5761	1956-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Russia	Rattus norvegicus	2.ANT3k_5761	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3l_735	1965-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Russia	Rattus norvegicus	2.ANT3l_735	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1b_2506	2005-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rhombomys opimus	2.MED1b_2506	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1c_2654	2006-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rhombomys opimus	2.MED1c_2654	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1d_2504	2005-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Rhombomys opimus	2.MED1d_2504	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED2b_91	1987-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Oropsylla silantiewi	2.MED2b_91	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED2c_K11973002	1973-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	2.MED2c_K11973002	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED2d_A1973001	1973-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota caudata	2.MED2d_A1973001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED2e_7338	1973-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	2.MED2e_7338	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3a_J1963002	1963-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Citellophilus tesquorum sungaris	2.MED3a_J1963002	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3b_CMCC125002b	1964-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Spermophilus alaschanicus	2.MED3b_CMCC125002b	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3c_I1969003	1969-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Meriones unguiculatus	2.MED3c_I1969003	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3d_J1978002	1978-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Spermophilus alaschanicus	2.MED3d_J1978002	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3f_I1970005	1970-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Meriones unguiculatus	2.MED3f_I1970005	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3g_CMCC99103	1970-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Meriones unguiculatus	2.MED3g_CMCC99103	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3h_CMCC90027	1970-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Meriones unguiculatus	2.MED3h_CMCC90027	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3i_CMCC92004	1957-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Ophthalmopsylla kiritschenkoi	2.MED3i_CMCC92004	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3j_I2001001	2001-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Meriones unguiculatus	2.MED3j_I2001001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3k_CMCC12003	1961-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	2.MED3k_CMCC12003	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3l_I1994006	1994-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Nosopsyllu laeviceps kuzenkovi	2.MED3l_I1994006	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3m_SHAN11	2006-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Meriones unguiculatus	2.MED3m_SHAN11	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3n_SHAN12	2006-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Meriones unguiculatus	2.MED3n_SHAN12	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3o_I1991001	1991-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Citellophilus tesquorum mongolicus	2.MED3o_I1991001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED3p_CMCC107004	2003-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	2.MED3p_CMCC107004	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+3.ANT1a_7b	2004-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Homo sapiens	3.ANT1a_7b	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+3.ANT1b_CMCC71001	1961-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	3.ANT1b_CMCC71001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+3.ANT1c_C1976001	1976-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Marmota himalayana	3.ANT1c_C1976001	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+3.ANT1d_71021	1989-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	China	Oropsylla silantiewi	3.ANT1d_71021	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+3.ANT2a_MGJZ6	1997-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Mongolia	Meriones meridianus	3.ANT2a_MGJZ6	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+3.ANT2b_MGJZ7	1997-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Mongolia	Meriones meridianus	3.ANT2b_MGJZ7	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+3.ANT2c_MGJZ9	1998-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Mongolia	Orip silantiwii	3.ANT2c_MGJZ9	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+3.ANT2d_MGJZ11	2000-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Mongolia	Marmota sibirica	3.ANT2d_MGJZ11	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+3.ANT2e_MGJZ3	1980-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Mongolia	Marmota sibirica	3.ANT2e_MGJZ3	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+4.ANT1a_MGJZ12	2002-XX-XX	Cui2013	2013	10.1073/pnas.1205750110	NA	Bayan-Ölgii, Mongolia	Marmota sibirica	4.ANT1a_MGJZ12	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_A.1804	1980-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE4_A.1804	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_5307.Gis	1979-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE4_5307.Gis	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.359	1978-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.359	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.590	1983-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.590	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.666	1989-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.666	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3134	1984-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE4_I.3134	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.291	1971-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.291	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE5_I.3189	1986-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE5_I.3189	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.267	1969-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.267	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.537	1984-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.537	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_A.1807	1980-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE4_A.1807	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.197	1967-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.197	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_A.513	1961-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE4_A.513	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.290	1971-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.290	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE5_I.2422a	1975-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE5_I.2422a	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.346	1976-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.346	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE5_I.2239	1972-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE5_I.2239	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.235	1968-09-12	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE2_C.235	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3455	2002-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE4_I.3455	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT3_790	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Kyrgyzstan	Unknown	0.ANT3_790	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_1412	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Georgia	Unknown	0.PE2_1412	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_1413	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Georgia	Unknown	0.PE2_1413	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_1522	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Armenia	Unknown	0.PE2_1522	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_1670	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Georgia	Unkown	0.PE2_1670	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_3067	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Georgia	Unknown	0.PE2_3067	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_3770	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Georgia	Unknown	0.PE2_3770	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_8787	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Georgia	Unknown	0.PE2_8787	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_14735	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Armenia	Unknown	0.PE2_14735	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_1045	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Azerbaijan	Unkown	2.MED1_1045	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_2944	20XX-XX-XX	Zhgenti2015	2015	10.1128/genomeA.01030-15	NA	Russia	Unkown	2.MED1_2944	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.746	1997-XX-XX	Kislichkina2017	2017	10.1128/genomeA.00847-17	NA	Russia	Microtus arvalis	0.PE2_C.746	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.824	2010-XX-XX	Kislichkina2017	2017	10.1128/genomeA.00847-17	NA	Russia	Microtus arvalis	0.PE2_C.824	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.370	1978-XX-XX	Kislichkina2017	2017	10.1128/genomeA.00847-17	NA	Russia	Microtus arvalis	0.PE2_C.370	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.712	1996-XX-XX	Kislichkina2017	2017	10.1128/genomeA.00847-17	NA	Russia	Microtus arvalis	0.PE2_C.712	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.739	1998-XX-XX	Kislichkina2017	2017	10.1128/genomeA.00847-17	NA	Russia	Microtus arvalis	0.PE2_C.739	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.535	1984-XX-XX	Kislichkina2017	2017	10.1128/genomeA.00847-17	NA	Russia	Microtus arvalis	0.PE2_C.535	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.678	1988-XX-XX	Kislichkina2017	2017	10.1128/genomeA.00847-17	NA	Russia	Microtus arvalis	0.PE2_C.678	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.700	1995-XX-XX	Kislichkina2017	2017	10.1128/genomeA.00847-17	NA	Russia	Microtus arvalis	0.PE2_C.700	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT3_231	1947-XX-XX	Eroshenko2017	2017	10.1371/journal.pone.0187230	NA	Kyrgyzstan	Marmota baibacina	0.ANT3_231	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT3_A.1486	1966-XX-XX	Eroshenko2017	2017	10.1371/journal.pone.0187230	NA	Kyrgyzstan	Marmota caudata	0.ANT3_A.1486	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT5_A.1691	1971-XX-XX	Eroshenko2017	2017	10.1371/journal.pone.0187230	NA	Kyrgyzstan	flea	0.ANT5_A.1691	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT5_A.1836	1983-XX-XX	Eroshenko2017	2017	10.1371/journal.pone.0187230	NA	Kyrgyzstan	Marmota baibacina	0.ANT5_A.1836	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4h_A.1249	1970-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Tajikistan	Microtus carruthersi	0.PE4h_A.1249	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4t_A.1815	1980-XX-XX	Eroshenko2017	2017	10.1371/journal.pone.0187230	NA	Kyrgyzstan	Callopsylla caspia	0.PE4t_A.1815	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_A.1809	1980-XX-XX	Eroshenko2017	2017	10.1371/journal.pone.0187230	NA	Kyrgyzstan	Pectinoctenus nemorosus	2.MED1_A.1809	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT5_262	1967-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kyrgyzstan	Marmota baibacina	0.ANT5_262	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.ANT5_5M	1952-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kyrgyzstan	Oropsylla silantievi	0.ANT5_5M	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_3544	20XX-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Armenia	Microtus arvalis	0.PE2_3544	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_3551	1979-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Armenia	Ctenophthalmus terus	0.PE2_3551	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_835_BPC	1958-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Armenia	Homo sapiens	0.PE2_835_BPC	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_C.741	1998-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Megabothris turbidus	0.PE2_C.741	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_KM874	1984-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Armenia	Microtus arvalis	0.PE2_KM874	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE2_M.986	1975-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Armenia	Homo sapiens	0.PE2_M.986	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4a_B1313	2014-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Рaradoxospsyllus sсorodumovi	0.PE4a_B1313	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4a_I.2751.55	2012-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Ochotona pallasi	0.PE4a_I.2751.55	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4a_I.2998	1982-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Ochotona pallasi	0.PE4a_I.2998	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4m_I.3086	1983-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Mongolia	Lasiopodomys brandtii	0.PE4m_I.3086	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE5_I.2422b	1974-XX-XX	Kislichkina2015	2015	10.1128/genomeA.01342-15	NA	Unknown	Unknown	0.PE5_I.2422b	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.ANT3_KM682	1970-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Spermophilus dauricus	2.ANT3_KM682	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED0_C.627	1986-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Spermophilus musicus	2.MED0_C.627	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_1116.D	1970-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Unknown	Spermophilus pygmaeus	2.MED1_1116.D	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_1240	1967-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Azerbaijan	Meriones libycus erythrourus	2.MED1_1240	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_139	1966-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kazakhstan	Rhombomis opinus	2.MED1_139	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_173	1978-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kazakhstan	Rhombomis opinus	2.MED1_173	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_1906	2014-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Meriones meridianus	2.MED1_1906	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_244	1967-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kazakhstan	Homo sapiens	2.MED1_244	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_261	1955-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Azerbaijan	Meriones libycus erythrourus	2.MED1_261	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_44	1966-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Azerbaijan	Nosopsyllus laeviceps	2.MED1_44	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_A.1763	1973-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kazakhstan	Rhombomis opinus	2.MED1_A.1763	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_A.1825	1983-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Unknown	Rhombomis opinus	2.MED1_A.1825	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_A.1920	1989-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kazakhstan	Homo sapiens	2.MED1_A.1920	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_C.791	2003-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Spermophilus pygmaeus	2.MED1_C.791	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_KM816	1985-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Turkmenistan	Rhombomis opinus	2.MED1_KM816	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_KM918	20XX-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Ctenophthalmus orientalis	2.MED1_KM918	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.1448	1990-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kazakhstan	Spermophilus pygmaeus	2.MED1_M.1448	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.1453	1990-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kazakhstan	Rhombomis opinus	2.MED1_M.1453	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.1484	1992-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Spermophilus pygmaeus	2.MED1_M.1484	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.1524	1993-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kazakhstan	Rhombomis opinus	2.MED1_M.1524	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.1773	2002-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Meriones meridianus	2.MED1_M.1773	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.1864	2009-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Meriones meridianus	2.MED1_M.1864	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.519	1967-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Turkmenistan	Rhombomis opinus	2.MED1_M.519	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.549	1977-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Kazakhstan	Ornithodoros tartakovskyi	2.MED1_M.549	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.595	2014-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Mus musculus	2.MED1_M.595	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+2.MED1_M.978	1990-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Spermophilus pygmaeus	2.MED1_M.978	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+4.ANT_1454	2012-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Citellus undulatus	4.ANT_1454	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+4.ANT_338	2015-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Marmota baibacina	4.ANT_338	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+4.ANT_517	2014-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Homo sapiens	4.ANT_517	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+4.ANT_KM932	1987-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Ceratophyllus  tesquorum	4.ANT_KM932	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+4.ANT_M.1944	2012-XX-XX	Kutyrev2018	2018	10.3389/fmicb.2018.01106	NA	Russia	Citellus undulatus	4.ANT_M.1944	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3443	2001-XX-XX	Kislichkina2018a	2018	10.1128/genomeA.01440-17	NA	Russia	Ochotona pallasi	0.PE4_I.3443	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3447	2001-XX-XX	Kislichkina2018a	2018	10.1128/genomeA.01440-17	NA	Russia	Ochotona pallasi	0.PE4_I.3447	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3518	2007-XX-XX	Kislichkina2018a	2018	10.1128/genomeA.01440-17	NA	Russia	Ochotona pallasi	0.PE4_I.3518	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3516	2007-XX-XX	Kislichkina2018a	2018	10.1128/genomeA.01440-17	NA	Russia	Ochotona pallasi	0.PE4_I.3516	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3515	2007-XX-XX	Kislichkina2018a	2018	10.1128/genomeA.01440-17	NA	Russia	Ochotona pallasi	0.PE4_I.3515	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3442	2001-XX-XX	Kislichkina2018a	2018	10.1128/genomeA.01440-17	NA	Russia	Ochotona pallasi	0.PE4_I.3442	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3517	2007-XX-XX	Kislichkina2018a	2018	10.1128/genomeA.01440-17	NA	Russia	Ochotona pallasi	0.PE4_I.3517	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3446	2001-XX-XX	Kislichkina2018a	2018	10.1128/genomeA.01440-17	NA	Russia	Ochotona pallasi	0.PE4_I.3446	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE4_I.3519	2007-XX-XX	Kislichkina2018a	2018	10.1128/genomeA.01440-17	NA	Russia	Ochotona pallasi	0.PE4_I.3519	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE5_I.2236	1972-XX-XX	Kislichkina2018b	2018	10.1128/genomeA.00536-18	NA	Mongolia	Ochotona sp	0.PE5_I.2236	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE5_I.3190	1986-XX-XX	Kislichkina2018b	2018	10.1128/genomeA.00536-18	NA	Mongolia	Ochotona sp	0.PE5_I.3190	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE5_I.2231	1972-XX-XX	Kislichkina2018b	2018	10.1128/genomeA.00536-18	NA	Mongolia	Ochotona sp	0.PE5_I.2231	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE5_I.2457	1973-XX-XX	Kislichkina2018b	2018	10.1128/genomeA.00536-18	NA	Mongolia	Ochotona sp	0.PE5_I.2457	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+0.PE5_I.2238	1972-XX-XX	Kislichkina2018b	2018	10.1128/genomeA.00536-18	NA	Mongolia	Ochotona sp	0.PE5_I.2238	0	NA	bacteria	Yersinia pestis	unknown	chromosome	NA				
+OOH003_c	20XX-XX-XX	LNBA2021	NA	NA	Oberottmarshausen	Germany	Homo sapiens	OOH003_c	3516.5	NA	bacteria	Yersinia pestis	tooth	chromosome	NA	ENA	raw	NA	NA
