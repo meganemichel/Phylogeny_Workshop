@@ -39,7 +39,7 @@ How many *Y. pestis* sequences are present in our file?
 ```
 grep '>' Alignments/AncModern_pestis.fasta  | wc -l
 ```
-**Note:** If you are running PowerShell on a Windows machine, you can use the command `Select-String -Path "./Alighments/AncModern_pestis.fasta" -Pattern ">" | find /c /v ""`
+**Note:** If you are running PowerShell on a Windows machine, you can use the command `(Select-String -Path "./Alignments/AncModern_pestis.fasta" -Pattern ">").length`
 
 You might wonder how this alignment was generated in the first place. Just as you learned about in the "Introduction to NGS DNA Sequencing and Processing" session, nf-core/eager was used to preprocess, align, and genotype data from ancient and modern *Y. pestis* strains (https://nf-co.re/eager). Genotyping was performed using the GATK UnifiedGenotyper with diploid calling. Next, MultiVCFAnalzer was used to filter SNPS and generate a SNP alignment (Alexander Herbig, https://github.com/alexherbig/MultiVCFAnalyzer). This SNP alignment was further filetered using a custom R script to exlude positions present in less than 98% of analyzed strains (Aida Andrades Valtueña, https://github.com/aidaanva/MDF). For a more thorough overview of methods used to *Y. pestis* SNP alignments, see Method Details in Andrades Valtueña *et al.* 2017. 
 
