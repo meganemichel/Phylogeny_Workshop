@@ -12,7 +12,7 @@ Download the version of MEGA X suitable for your machine and follow instructions
  
 2. **Data files-** https://github.com/meganemichel/Phylogeny_Workshop  
 Download this repository to a convenient location on your local machine. If you are comfortable working with Git on the command line follow the following steps:  
-* Open a terminal window  
+* Open a terminal window on your computer 
 * Change into the directory where you would like to save the Phylogeny_Workshop materials  
 ```
 cd /path/to/directory
@@ -22,21 +22,25 @@ cd /path/to/directory
 git clone https://github.com/meganemichel/Phylogeny_Workshop.git
 ```
 
-**Note:** If you are not comfortable working with git, navivate to the URL listed above, select the green "Code button", and choose "Download ZIP". Make sure the unzipped directory is named `Phylogeny_Workshop`, and move this directory to the desired location in your filesystem. 
+**Note:** If you are not comfortable working with git, navivate to the URL listed above, select the green "Code button", and choose "Download ZIP". Make sure the unzipped directory (containing the subdirectories Alignments, Metadata, etc.) is named `Phylogeny_Workshop`, and move this directory to the desired location in your filesystem. 
 
 ## Part 2: SNP Alignments
 
-Within the directory `Phylogeny_Workshop/Alignments`, you will find a file called `AncModern_pestis.fasta`. This file contains a multiple sequence alignment of ancient and modern *Yersinia pestis* sequences. Run the following command to take a look at our alignment file.
+Within the directory `Phylogeny_Workshop/Alignments`, you will find a file called `AncModern_pestis.fasta`. This file contains a multiple sequence alignment of ancient and modern *Yersinia pestis* sequences. In the termianl, run the following command to take a look at our alignment file. (Note that /path/to/directory refers to the location on your file system containing 'Phylogeny_Workshop')
 ```
 cd /path/to/directory/Phylogeny_Workshop
 head Alignments/AncModern_pestis.fasta 
 ```
-Each sequence consists of a header line beginning with '>' and a string of nucleotides (**A,T,C,G**). What does **N** stand for in our alignment file?
+**Note:** If you are running PowerShell on a Windows machine, you can view the first few lines of the file using `gc ./Alighments/AncModern_pestis.fasta | select -first 2`
+
+Each sequence consists of a header line containing the sample name and beginning with '>'. The following line includes a string of nucleotides (**A,T,C,G**). What does **N** stand for in our alignment file?
 
 How many *Y. pestis* sequences are present in our file?
 ```
 grep '>' Alignments/AncModern_pestis.fasta  | wc -l
 ```
+**Note:** If you are running PowerShell on a Windows machine, you can use the command `Select-String -Path "./Alighments/AncModern_pestis.fasta" -Pattern ">" | find /c /v ""`
+
 You might wonder how this alignment was generated in the first place. Just as you learned about in the "Introduction to NGS DNA Sequencing and Processing" session, nf-core/eager was used to preprocess, align, and genotype data from ancient and modern *Y. pestis* strains (https://nf-co.re/eager). Genotyping was performed using the GATK UnifiedGenotyper with diploid calling. Next, MultiVCFAnalzer was used to filter SNPS and generate a SNP alignment (Alexander Herbig, https://github.com/alexherbig/MultiVCFAnalyzer). This SNP alignment was further filetered using a custom R script to exlude positions present in less than 98% of analyzed strains (Aida Andrades Valtueña, https://github.com/aidaanva/MDF). For a more thorough overview of methods used to *Y. pestis* SNP alignments, see Method Details in Andrades Valtueña *et al.* 2017. 
 
 Ok, let's use MEGA X to take a look at this alignment file in more detail. 
