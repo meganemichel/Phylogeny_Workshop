@@ -77,7 +77,7 @@ Here are some topics for further discussion in small groups:
 
 3. When you play the animation, what do you notice about the branch lengths of ancient strains relative to modern ones? How can you explain this observation? If branch lengths for specific ancient strains don't adhere to this pattern, what might that indicate? 
 
-4. The precise postioning of strains within your phylogenies may differ from previously published trees due to differences in methods (e.g. type of phylogeny constructed, choice of substition model, differences in SNP filtering, etc.). Take a look at previosly published trees in the Pestis_Phylogeny_Examples folder. Discuss among your group members how phylogenetic analysis can help us to understand the geographic origin and transmission patterns of epidemics. 
+4. The precise postioning of strains within your phylogenies may differ from previously published trees due to differences in methods (e.g. type of phylogeny constructed, choice of substition model, differences in SNP filtering, etc.). Take a look at previosly published tree from Keller *et al.* 2019 in the main folder of the github repo.  Discuss among your group members how phylogenetic analysis can help us to understand the geographic origin and transmission patterns of epidemics. What caveats can you think of for this approach? 
 
 ## Sources Cited
 
@@ -110,5 +110,4 @@ Samples analyzed in this tutorial were originally published in the following pap
 25. Spyrou, M. A. *et al.* Analysis of 3800-year-old Yersinia pestis genomes suggests Bronze Age origin for bubonic plague. *Nat Commun* **9**, 2234 (2018).
 26. Yu, H. *et al.* Paleolithic to Bronze Age Siberians Reveal Connections with First Americans and across Eurasia. *Cell* **181**, 1232-1245.e20 (2020).
 27. Zhgenti, E. *et al.* Genome Assemblies for 11 Yersinia pestis Strains Isolated in the Caucasus Region. *Genome Announc* **3**, e01030-15 (2015).
-
 
